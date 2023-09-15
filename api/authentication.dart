@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
 import 'package:fluttertoast/fluttertoast.dart';
 
-const baseUrl = 'https://momowave.up.railway.app';
+const baseUrl = '***';
 
 // class Authentication{
   Future<void> register(String email, String password, String momoNetwork, String momoNumber) async {
